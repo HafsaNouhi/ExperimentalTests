@@ -1,6 +1,6 @@
 # Flexible-link velocity-bounded proxy based sliding mode control
 
-The videos in the `videos/` directory illustrate the experimental tests of the proposed control framework. They correspond to 
+The videos in the `videos/` directory illustrate the experimental tests of the proposed control framework in free motion.
 
 | **Case**                          | **Video File**      |
 |---------------------------------|---------------------|
