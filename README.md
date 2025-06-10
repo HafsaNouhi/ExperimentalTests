@@ -4,6 +4,6 @@ The videos in the `videos/` directory illustrate the experimental tests of the p
 
 | **Case**                          | **Video File**      |
 |---------------------------------|---------------------|
-| **Case 1: Joint space VB-PSMC** | `videos/CASE_1.mp4` |
-| **Case 2: Joint space VB-PSMC with vibration control**| `videos/CASE_2.mp4` |
-| **Case 3: FL-VB-PSMC** || `videos/CASE_3.mp4` |
+| **Case 1: Joint space VB-PSMC** | `Videos/Joint space VB-PSMC.mp4` |
+| **Case 2: Joint space VB-PSMC with vibration control**| `Videos/Joint space VB-PSMC with vibration control.mp4` |
+| **Case 3: FL-VB-PSMC** | `Videos/CASE_3.mp4` |
